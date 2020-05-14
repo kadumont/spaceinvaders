@@ -17,7 +17,7 @@ L'objectif est de pouvoir déplacer le vaisseau vers la droite en prenant en com
 Story identique à la précédente mais du côté gauche.
 
 ### Diagramme de Classe
-
+![Diagramme de classe fct1](Images/Class_Diagram.png)
 
 ### Nuage de mots
 ![Nuage de mots](/Images/nuageMot.png)
